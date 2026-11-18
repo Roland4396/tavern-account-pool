@@ -1,0 +1,9 @@
+{
+  "accounts": [],
+  "routing": {
+    "schema": 2,
+    "enabled": false,
+    "client_keys": [],
+    "channels": []
+  }
+}
